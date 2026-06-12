@@ -1,0 +1,31 @@
+{
+    "damage_types":[
+        "arrow", "bad_respawn_point", "cactus", "campfire", "cramming", "dragon_breath",
+        "drown", "dry_out", "ender_pearl", "explosion", "fall","falling_anvil",
+        "falling_block", "falling_stalagmite", "fireball", "fireworks", "fly_into_wall",
+        "freeze", "generic", "generic_kill", "hot_floor", "in_fire", "in_wall",
+        "indirect_magic", "lava", "lightning_bolt", "magic", "mace_smash", "mob_attack",
+        "mob_attack_no_aggro", "mob_projectile", "on_fire", "out_of_world",
+        "outside_border", "player_attack", "player_explosion", "sonic_boom", "spear",
+        "spit", "stalagmite","starve", "sting", "sweet_berry_bush", "thorns", "thrown",
+        "trident", "unattributed_fireball", "wind_charge","wither", "wither_skull"
+    ],
+    "enchantments":[
+        "aqua_affinity", "bane_of_arthropods", "binding_curse", "blast_protection",
+        "breach", "channeling", "density", "depth_strider", "efficiency", "feather_falling",
+        "fire_aspect", "fire_protection", "flame", "fortune", "frost_walker", "impaling",
+        "infinity", "knockback", "looting", "loyalty", "luck_of_the_sea", "lunge", "lure",
+        "mending", "multishot", "piercing", "power", "projectile_protection", "protection",
+        "punch", "quick_charge", "respiration", "riptide", "sharpness", "silk_touch", "smite",
+        "soul_speed", "sweeping_edge", "swift_sneak", "thorns", "unbreaking", "vanishing_curse",
+        "wind_burst"
+    ],
+    "potion_effects":[
+        "absorption","bad_omen","blindness","breath_of_the_nautilus","conduit_power","darkness",
+        "dolphins_grace","fire_resistance","glowing","haste","health_boost","hero_of_the_village",
+        "hunger","infested","instant_damage","instant_health","invisibility","jump_boost","levitation",
+        "luck","mining_fatigue","nausea","night_vision","oozing","poison","raid_omen","regeneration",
+        "resistance","saturation","slow_falling","slowness","speed","strength","trial_omen","unluck",
+        "water_breathing","weaving","weakness","wind_charged","wither"
+    ]
+}

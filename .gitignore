@@ -7,6 +7,9 @@ config.json
 # File folders
 temporary-file/
 
+# other files
+*.bat
+
 # C extensions
 *.so
 

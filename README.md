@@ -34,3 +34,8 @@ a individual independent home underage developer!
 When I wrote README.md, I was already approaching the middle school entrance examination.  
 So I used AI to help me to better advance the development progress.  
 Alright, that's all, thanks!
+
+## (url)
+If you're Chinese Mainlang user like me, here is my bilibili url:  
+如果你是像我一样的中国大陆用户，这是我的哔哩哔哩链接：  
+[bilibili](https://space.bilibili.com/3546576559540920?spm_id_from=333.1007.0.0)

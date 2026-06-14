@@ -60,19 +60,19 @@ class EntityNBTSelector(ttk.Frame):
             "UUID": UUIDWidget,
 
             # 作者注：私有nbt部分
-            "DuplicationCooldown": DuplicationCooldownWidget,    # 作者注：以下组件适用于实体minecraft: allay
-            "Inventory": InventoryWidget,
+            "DuplicationCooldown (allay)": DuplicationCooldownWidget,    # 作者注：以下组件适用于实体minecraft: allay
+            "Inventory (allay)": InventoryWidget,
 
-            "ScuteTime": ScuteTimeWidget,    # 作者注：以下组件适用于实体minecraft: armadillo
-            "State": StateWidget,
+            "ScuteTime (armadillo)": ScuteTimeWidget,    # 作者注：以下组件适用于实体minecraft: armadillo
+            "State (armadillo)": StateWidget,
 
-            "DisabledSlots": DisabledSlotsWidget,    # 作者注：以下组件适用于实体minecraft: armor_stand
-            "Invisible": InvisibleWidget,
-            "Marker": MarkerWidget,
-            "NoBasePlate": NoBasePlateWidget,
-            "Pose": PoseWidget,
-            "ShowArms": ShowArmsWidget,
-            "Small": SmallWidget,
+            "DisabledSlots (armor_stand)": DisabledSlotsWidget,    # 作者注：以下组件适用于实体minecraft: armor_stand
+            "Invisible (armor_stand)": InvisibleWidget,
+            "Marker (armor_stand)": MarkerWidget,
+            "NoBasePlate (armor_stand)": NoBasePlateWidget,
+            "Pose (armor_stand)": PoseWidget,
+            "ShowArms (armor_stand)": ShowArmsWidget,
+            "Small (armor_stand)": SmallWidget,
         }
 
         self.added_components = {}

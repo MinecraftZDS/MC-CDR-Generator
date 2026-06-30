@@ -31,6 +31,8 @@ from affiliated.entity.private.armor_stand.no_base_plate import NoBasePlateWidge
 from affiliated.entity.private.armor_stand.pose import PoseWidget
 from affiliated.entity.private.armor_stand.show_arms import ShowArmsWidget
 from affiliated.entity.private.armor_stand.small import SmallWidget
+from affiliated.entity.private.axolotl.from_bucket import FromBucketWidget
+from affiliated.entity.private.axolotl.variant import VariantWidget
 
 class EntityNBTSelector(ttk.Frame):
     def __init__(self, parent, **kwargs):
@@ -73,6 +75,9 @@ class EntityNBTSelector(ttk.Frame):
             "Pose (armor_stand)": PoseWidget,
             "ShowArms (armor_stand)": ShowArmsWidget,
             "Small (armor_stand)": SmallWidget,
+
+            "FromBucket (axolotl)": FromBucketWidget,      # 作者注：以下组件适用于实体minecraft: axolotl
+            "Variant (axolotl)": VariantWidget,
         }
 
         self.added_components = {}

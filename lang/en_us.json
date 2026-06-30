@@ -536,5 +536,10 @@
     "show_arms.label": "Show Arms",
     "show_arms.save": "Save Show Arms",
     "small.label": "Small",
-    "small.save": "Save Small"
+    "small.save": "Save Small",
+    "from_bucket.label": "From Bucket",
+    "from_bucket.save": "Save From Bucket",
+    "variant.label": "Variant (color):",
+    "variant.save": "Save Variant",
+    "variant.error.invalid": "Must be an integer."
 }

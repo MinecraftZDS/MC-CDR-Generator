@@ -103,7 +103,7 @@ def main():
         else:  # summon
             entity_name = summon_entry.get().strip()
             if not entity_name:
-                cmd = ""
+                messagebox.showwarning("msgbo.warning.emptyentity","Entity name cannot be empty!")
             elif entity_name == "player" or entity_name == "minecraft:player":
                 messagebox.showerror(bc.get_lang_text("error.title"),
                                      bc.get_lang_text("msgbox.error.cannot_summon_player"))

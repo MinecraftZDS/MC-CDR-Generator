@@ -33,7 +33,12 @@ I'm from **Zhejiang**, nationality is **People's republic of China**,
 a individual independent home underage developer!  
 When I wrote README.md, I was already approaching the middle school entrance examination.  
 So I used AI to help me to better advance the development progress.  
-Alright, that's all, thanks!
+When I edited Readme.md for the second time, it was already August 21st  
+At this point (I) am about to enter high school, and I haven't been taking care of this project during this period due to being too lazy (qwq)  
+The next time I read this readme.md, it might be a weekend or a statutory holiday  
+Or maybe during winter and summer vacations when I have free time to use the computer  
+Alright, that's all, thanks!  
+*(ふん、このプロジェクトをダウンロードしたのは雑魚だにゃ)*  
 
 ## (url)
 If you're Chinese Mainlang user like me, here is my bilibili url:  
